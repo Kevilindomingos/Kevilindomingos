@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Kevilin Marcondes, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonada por tecnologia e hospedo meu apendizado no GitHub e [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/), onde aprendo a criar e desenvolver projetos web.
+Me chamo Kevilin Marcondes, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonada por tecnologia e hospedo meu aprendizado no GitHub e [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/), onde aprendo a criar e desenvolver projetos web.
 
 <p align="left">
     <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
