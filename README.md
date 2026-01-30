@@ -53,11 +53,10 @@ Checkout my [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/)!
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="Vite"
+    title="Vite" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 <img 
     align="left" 
@@ -99,10 +98,11 @@ Checkout my [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/)!
 />
 <img 
     align="left" 
-    alt="Vite"
-    title="Vite" 
+    alt="Bootstrap"
+    title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <br/>
 <br/>
