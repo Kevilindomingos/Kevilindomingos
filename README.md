@@ -2,17 +2,8 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Kevilin Marcondes, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonada por tecnologia e hospedo meu aprendizado no GitHub e [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/), onde aprendo a criar e desenvolver projetos web.
-
-<p align="left">
-    <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a> -->
-</p>
+My name is Kevilin Marcondes, i'm natural from Paraná, Brazil. actually, I'm Analysis and developer Systems Technican.
+[Linkedin](https://www.linkedin.com/in/kevilin-marcondes/)
 
 ---
 
@@ -57,14 +48,6 @@ Me chamo Kevilin Marcondes, tenho 19 anos e sou natural do Paraná. Atualmente, 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
