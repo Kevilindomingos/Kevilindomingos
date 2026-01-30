@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-My name is Kevilin Marcondes, i'm natural from Paraná, Brazil. actually, I'm Systems Analysis and Developer Technican.
+My name is Kevilin Marcondes, I'm natural from Paraná, Brazil. Actually, I'm Systems Analysis and Developer Technican.
 </br>
 [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/)
 
