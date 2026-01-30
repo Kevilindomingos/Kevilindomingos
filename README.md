@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kevilin Marcondes
 
-**`Desenvolvedora Front-End`**
+**`FullStack Developer`**
 
 My name is Kevilin Marcondes, I'm natural from Paraná, Brazil. Actually, I'm Systems Analysis and Developer Technican.
 </br>
@@ -77,11 +77,32 @@ Checkout my [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/)!
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Hbs"
+    title="Hbs" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vite"
+    title="Vite" 
+    width="30px" 
+    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
 <br/>
 <br/>
