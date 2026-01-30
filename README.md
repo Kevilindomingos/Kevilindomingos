@@ -4,6 +4,7 @@
 
 My name is Kevilin Marcondes, I'm natural from Paraná, Brazil. Actually, I'm Systems Analysis and Developer Technican.
 </br>
+Checkout my Linkedin:
 [Linkedin](https://www.linkedin.com/in/kevilin-marcondes/)
 
 ---
